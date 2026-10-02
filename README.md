@@ -1,4 +1,4 @@
-# AI Dev Orchestrator
+# AI App Generator
 
 ブラウザーで操作できるAI開発パイプラインです。Web画面はPython標準ライブラリのHTTPサーバーで提供するため、StreamlitやWeb用の追加フレームワークは不要です。AIプロバイダーはGeminiとGitHub Copilotに対応しています。
 
